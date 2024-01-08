@@ -1,0 +1,3 @@
+assets/*/* eol=lf
+assets/*/*/* eol=lf
+assets/scripts/bin/* binary
